@@ -12,6 +12,7 @@ Seiring berjalannya jadwal perkuliahan, repositori ini akan terus diperbarui den
 
 | Pertemuan | Direktori Modul | Topik Pembelajaran Utama | Ringkasan Materi |
 | :---: | :--- | :--- | :--- |
+| **003** | [`/Pertemuan_003`](./Pertemuan_003) | Pengenalan Mikrokontroler & Komunikasi Serial | Mempelajari fundamental pemrograman Arduino, kontrol *digital output* dasar (blink LED), dan dasar pertukaran informasi (teks) ke komputer melewati *Serial Monitor*. |
 | **004** | [`/Pertemuan_004`](./Pertemuan_004) | Kontrol LED RGB & Pembangkit Sinyal SOS | Pemahaman dasar kontrol LED RGB (Common Cathode) multwarna serta implementasi algoritma perulangan dan penundaan (delay) untuk membangkitkan pola sinyal darurat Morse (SOS). |
 
 ---

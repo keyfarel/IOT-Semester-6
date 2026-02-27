@@ -27,7 +27,7 @@ Implementasi komprehensif yang memadukan kontrol warna RGB dari _Project 1_ dan 
 - **Logika Eksekusi:**
   1. Mentransmisi siklus sinyal SOS menggunakan warna **Merah**, lalu ditahan selama 5 detik.
   2. Mentransmisi siklus sinyal SOS menggunakan warna **Hijau**, lalu ditahan selama 5 detik.
-  3. Mentransmisi siklus sinyal SOS menggunakan warna **Biru**, ditahan 5 detik—lalu rotasi kembali bertukar menjadi warna Merah.
+  3. Mentransmisi siklus sinyal SOS menggunakan warna **Biru**, ditahan 5 detik, lalu rotasi kembali bertukar menjadi warna Merah.
 
 ---
 
