@@ -14,6 +14,7 @@ Seiring berjalannya jadwal perkuliahan, repositori ini akan terus diperbarui den
 | :---: | :--- | :--- | :--- |
 | **003** | [`/Pertemuan_003`](./Pertemuan_003) | Pengenalan Mikrokontroler & Komunikasi Serial | Mempelajari fundamental pemrograman Arduino, kontrol *digital output* dasar (blink LED), dan dasar pertukaran informasi (teks) ke komputer melewati *Serial Monitor*. |
 | **004** | [`/Pertemuan_004`](./Pertemuan_004) | Kontrol LED RGB & Pembangkit Sinyal SOS | Pemahaman dasar kontrol LED RGB (Common Cathode) multwarna serta implementasi algoritma perulangan dan penundaan (delay) untuk membangkitkan pola sinyal darurat Morse (SOS). |
+| **005** | [`/Pertemuan_005`](./Pertemuan_005) | Sensor DHT11 & Visualisasi Suhu LED RGB | Praktik pembacaan besaran suhu dan persentase kelembaban lingkungan via sensor suhu (DHT11), serta konversi nilai analog (suhu) menjadi indikator visual interaktif menggunakan spektrum warna LED RGB. |
 
 ---
 
