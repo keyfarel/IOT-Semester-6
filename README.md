@@ -18,6 +18,7 @@ Seiring berjalannya jadwal perkuliahan, repositori ini akan terus diperbarui den
 | **006** | [`/Pertemuan_006`](./Pertemuan_006) | Sensor LDR & Simulasi Smart Home | Mempelajari pembacaan nilai analog intensitas cahaya via sensor LDR dan mengintegrasikannya bersama sensor suhu DHT11 serta LED RGB untuk mensimulasikan logika sistem Smart Home sederhana berdasar parameter lingkungan. |
 | **007** | [`/Pertemuan_007`](./Pertemuan_007) | Smart Home Clock (OLED & NTP) | Mengintegrasikan modul display OLED (I2C) dengan sensor suhu DHT11, modul WiFi, dan sinkronisasi waktu NTP Server untuk membangun prototipe *Smart Home Clock* interaktif. |
 | **009** | [`/Pertemuan_009`](./Pertemuan_009) | TCP Socket Client-Server & Pinggy Tunneling | Mempelajari implementasi arsitektur jaringan TCP antara mikrokontroler ESP32 (Client pembaca sensor DHT11) dengan Python (Server penerima data) via internet publik menggunakan bantuan rute Pinggy Tunneling. |
+| **010** | [`/Pertemuan_010`](./Pertemuan_010) | Smart Village Client-Server (DHT11 & LDR) | Mengimplementasikan arsitektur *Smart Village* melalui rute komunikasi TCP antara ESP32 (mengirim data sensor) dan Python (memproses data dan merespons dengan kendali aktuator lampu jalan). |
 
 ---
 
